@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllocatorClient", "AllocatorClient\AllocatorClient.csproj", "{6FE04078-393E-445C-B6FF-1AB439EBA6C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllocatorLib", "AllocatorLib\AllocatorLib.csproj", "{ADF55423-D48A-4A55-A40C-BB568DA05C18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllocatorBasic", "AllocatorBasic\AllocatorBasic.csproj", "{EBF280FA-8B04-4619-B6E8-05F1BC7C675E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FE04078-393E-445C-B6FF-1AB439EBA6C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FE04078-393E-445C-B6FF-1AB439EBA6C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FE04078-393E-445C-B6FF-1AB439EBA6C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FE04078-393E-445C-B6FF-1AB439EBA6C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADF55423-D48A-4A55-A40C-BB568DA05C18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADF55423-D48A-4A55-A40C-BB568DA05C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADF55423-D48A-4A55-A40C-BB568DA05C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADF55423-D48A-4A55-A40C-BB568DA05C18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBF280FA-8B04-4619-B6E8-05F1BC7C675E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBF280FA-8B04-4619-B6E8-05F1BC7C675E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBF280FA-8B04-4619-B6E8-05F1BC7C675E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBF280FA-8B04-4619-B6E8-05F1BC7C675E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
